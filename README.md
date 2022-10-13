@@ -1,2 +1,2 @@
 # FLASK API
- creating simple calculation webapplication using flask and postman
+ creating simple calculation web application using flask and postman
